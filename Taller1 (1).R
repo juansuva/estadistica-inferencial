@@ -121,3 +121,6 @@ medianarenta
 modarenta <-table(renta$tarifa)
 sort(modarenta, decreasing = TRUE)
 boxplot(renta$tarifa)
+
+esto es una prueba
+
