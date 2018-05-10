@@ -1,5 +1,5 @@
 #Taller
-
+#prueba 22 
 #Datarfames
 planetas <- c("Mercurio", "Venus", "Tierra", "Marte", "Jupiter", "Saturno", "Urano", "Neptuno")
 tipo <- c("solido", "solido", "solido", "solido", "gas", "gas", "gas", "gas")
